@@ -42,7 +42,7 @@ If you encounter problems with dependencies, [uninstall the problematic packages
 
 3. Appearances Problems
 
-If you use KDE/Plasma the GUI-application can be show falsified because Ventoy use Gtk, to solve this problem under plasma:
+If you use KDE/Plasma the GUI-application can be show falsified fields because Ventoy use Gtk, to solve this problem under plasma:
 
 * Right-Click on Kickoff ("Application Menu"),
 

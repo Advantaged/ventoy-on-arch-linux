@@ -1,6 +1,6 @@
 # ventoy-on-arch-linux
 ## Ventoy.md
-* Merit to [Ventoy 1]([https://github.com/Advantaged/ventoy-on-arch-linux/tree/main](https://www.ventoy.net/en/doc_start.html) & [Ventoy 2](https://www.ventoy.net/en/doc_linux_gui.html).
+* Merit to [Ventoy "1"](https://www.ventoy.net/en/doc_start.html) & [Ventoy "2"](https://www.ventoy.net/en/doc_linux_gui.html).
 
 ### Prerequisite
 1. Update your system

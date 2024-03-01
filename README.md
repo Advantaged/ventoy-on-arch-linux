@@ -43,21 +43,21 @@ If you encounter problems with dependencies, [uninstall the problematic packages
 
 If you use KDE/Plasma the GUI-application can be show falsified because Ventoy use Gtk, to solve this problem under plasma:
 
-Right-Click on Kickoff ("Application Menu"),
+* Right-Click on Kickoff ("Application Menu"),
 
-click on "Edit Applications",
+* click on "Edit Applications",
 
-search for "ventoy",
+* search for "ventoy",
 
-click in case on "General" on the right side,
+* click in case on "General" on the right side,
 
-look for "Program:",
+* look for "Program:",
 
-replace `ventoygui` with `ventoygui --qt5` or add simply one space ➕ `--qt5`,
+* replace `ventoygui` with `ventoygui --qt5` or add simply one space ➕ `--qt5`,
 
-click  on "Save" on left-side up,
+* click  on "Save" on left-side up,
 
-& close "KDE Menu Editor".
+* & close "KDE Menu Editor".
 
 
 ✅ ***Done & Enjoy***❗️
